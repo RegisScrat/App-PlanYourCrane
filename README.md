@@ -1,2 +1,12 @@
 # App-PlanYourCrane
-Application qui propose des modèles de grues à tour en fonction des données saisies par l'utilisateur (distances et poids des charges à manutentionner).
+L'application PlanYourCrane propose des modèles de grues à tour à partir de données saisies par l'utilisateur (distances et poids des charges à manutentionner).
+
+Seul le couple en kg.m est pris en compte. Il est comparé aux courbes de charges des grues à tour (double chariot ou courbes LM2) de la base de données sous forme graphique.
+
+Les longueurs de flèche, les hauteurs sous crochets, les largeurs de châssis mais aussi l'environnement où sont implantées les grues sont autant d'autres critères essentiels qui ne sont pas pris en compte par l'application.
+
+L'application ne dispense en aucun cas du recours à un professionnel qui seul pourra répondre pleinement à votre besoin.
+
+Le choix du modèle de grue reste sous l'entière responsabilité de l'utilisateur.
+
+Une connexion internet est indispensable pour accéder à la base de données de l'application.
